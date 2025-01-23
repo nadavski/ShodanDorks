@@ -123,3 +123,8 @@ Helps to find the charging status of tesla powerpack. </br>
 <tr><th>Change Description</th><th>Date</th></tr>
 <tr><td style='color: #32;'>Update version- 2025-01-23 16:10:36</td><td>2025-01-23 16:10:36</td></tr>
 </table>
+<h3>Changes</h3>
+<table border="1">
+<tr><th>Change Description</th><th>Date</th></tr>
+<tr><td style='color: #31;'>Update version- 2025-01-23 16:15:48</td><td>2025-01-23 16:15:48</td></tr>
+</table>
